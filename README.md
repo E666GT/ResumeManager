@@ -11,11 +11,13 @@
     ```angular2
     python main.py
     ``` 
+    ![Image description](docs/gui.png)
  2. Click '>>>>>>' in the GUI. You can have a PDF or WORD version CV.
  
+ # Preview
+ ![Image description](docs/pre_e.png)
+ ![Image description](docs/pre_c.png)
 
-
-[GUI]: docs/gui.png "GUI"
  
 
  
